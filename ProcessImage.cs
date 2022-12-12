@@ -1,7 +1,7 @@
 // Default URL for triggering event grid function in the local environment.
 // http://localhost:7071/runtime/webhooks/EventGrid?functionName={functionname}
 
-// Learn how to locally debug an Event Grid-triggered function:
+// Learn how to locally debug an Event Grid-triggered function: test
 //    https://aka.ms/AA30pjh
 
 // Use for local testing:
